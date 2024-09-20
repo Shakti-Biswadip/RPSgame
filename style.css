@@ -146,7 +146,7 @@ body{
         font-size: 5rem;
         height: 150px;
         width: 150px;
-        top: 290px;
+        top: 245px;
     }
 }
 
@@ -197,6 +197,7 @@ body{
         font-size: 5rem;
         height: 120px;
         width: 120px;
+        top: 65px;
     }
 }
 
@@ -248,7 +249,7 @@ body{
 @media(max-width:380px){
     .middleDiv{
         left: 125px;
-        top: 180px;
+        top: 155px;
     }
     .middleDiv p {
         font-size: 3rem;
@@ -286,7 +287,7 @@ body{
 @media(max-width:380px){
     .lowerDiv{
         height: 290px;
-        top: 460px;
+        top: 410px;
     }
 }
 
@@ -543,10 +544,11 @@ padding: 15px;
 /*small size mobile*/
 @media(max-width:380px){
     .status{
-        bottom: 40px;
+        bottom: 80px;
         font-size: 30px;
         display: flex;
         align-items: center;
+        height: 30px;
     }
 }
 
